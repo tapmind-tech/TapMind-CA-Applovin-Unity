@@ -1,0 +1,21 @@
+<dependencies>
+  <androidPackages>
+
+<androidPackage spec="com.github.tapmind-tech.TapMind-CA-Applovin-Android:CustomAdapter-appLovin:1.0.2">
+        <repositories>
+            <repository>https://maven.google.com/</repository>
+            <repository>https://repo.maven.apache.org/maven2/</repository>
+            <repository>https://dl.google.com/dl/android/maven2/</repository>
+            <repository>https://jitpack.io</repository>
+        </repositories>
+    </androidPackage>
+  </androidPackages>
+
+  <iosPods>
+    <iosPod name="TapMindALAdapter" version="1.0.0">
+      <sources>
+        <source>https://github.com/CocoaPods/Specs</source>
+      </sources>
+    </iosPod>
+  </iosPods>
+</dependencies>
