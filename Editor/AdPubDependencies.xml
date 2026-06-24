@@ -1,7 +1,7 @@
 <dependencies>
   <androidPackages>
 
-<androidPackage spec="io.github.tapmind-tech:customadapter-applovin:2.1.15">
+<androidPackage spec="io.github.tapmind-tech:customadapter-applovin:2.1.16">
         <repositories>
             <repository>https://maven.google.com/</repository>
             <repository>https://repo.maven.apache.org/maven2/</repository>
